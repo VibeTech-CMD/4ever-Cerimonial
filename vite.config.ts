@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     // Caminhos relativos permitem publicar no GitHub Pages em repositórios de projeto.
-    base: './',
+    base: '/4ever-Cerimonial/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
