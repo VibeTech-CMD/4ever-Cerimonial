@@ -1,0 +1,6 @@
+{
+  "name": "4ever",
+  "description": "Assessoria e cerimonial de alto padrão unindo sensibilidade estética, afeto e cuidado para noivas e casais contemporâneos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
